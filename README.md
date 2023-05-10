@@ -4,7 +4,7 @@ Assignment for python classes
 ## How To Submit
 
 1. Fork the repository
-2. Clone the forked repository to your machine
+2. Clone the forked repository to your machine.
 To clone and run this application, you'll need [Git](https://git-scm.com)
 
 ```bash
