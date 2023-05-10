@@ -5,7 +5,7 @@ Assignment for python classes
 
 1. Fork the repository
 2. Clone the forked repository to your machine
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com)
 
 ```bash
 # Clone this repository
@@ -20,7 +20,8 @@ $ cd solutions
 # Create your solution file (the same name as the assignment file)
 $ touch <filename.py>
 
-<!-- After you are done with the solution -->
+# After you are done with the solution
+
 # Commit your file
 $ git add <filename.py>
 $ git commit -m 'commit message'
