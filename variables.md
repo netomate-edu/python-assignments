@@ -1,7 +1,7 @@
 ### Exercises: Level 1
 
 1. Inside your solutions folder create a file name variables.py
-2. Write a python comment saying 'Day 2: 30 Days of python programming'
+2. Write a python comment saying 'variables in python programming'
 3. Declare a first name variable and assign a value to it
 4. Declare a last name variable and assign a value to it
 5. Declare a full name variable and assign a value to it
