@@ -1,0 +1,13 @@
+     # 1.
+     username = "Hope"
+     user's_age = '20'
+     
+     username_input = input('Enter your username: ')
+     user_age_input = input('Enter your age: ')
+       print("your old enough to learn how to drive")
+
+
+
+     input_user's_age = input("user's_age: ")
+    if 
+     

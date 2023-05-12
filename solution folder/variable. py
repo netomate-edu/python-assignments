@@ -1,0 +1,12 @@
+# 'variables in python programming'
+ first_name= "Dani"
+last_name = "winfery"
+ full_name= "winfery dani"
+ _country= "British"
+ _city="manchester"
+ _age= "10"
+ _year= 2010
+ is_married= "not married"
+
+
+
