@@ -40,8 +40,6 @@ print(first_name==last_name)
 # false
 print(first_name!=last_name)
 # true
-print(first_name>last_name)
-# false
 print(first_name<last_name)
 # true
 print(first_name>=last_name)
@@ -66,16 +64,27 @@ print('power:',  a ** b)
 power: 625
 print('floor Division:',  a // b)
 1
-# Area of circle ()
+
+# Area of circle () & cicumference of a circle
 pi= 3.14
-r= 30
-print= ('Area of circle:', 30^2(*3.142))
+radius=float(input("Enter the Radius"))
+area= pi*radius*radius
+circle = 2 * pi * radius
+print("The area is", area)
+print("The circumference is", circle)
+
+# built- in input function
+user_input= input('Enter your first_name:')
+user_input= input('Enter your last_name:')
+user_input= input('Enter your Country:')
+user_input= input('Enter your Age:')
 
 
-#circumference of a circle
-r=30
-pi= 3.142
-print('circum of circle:', 2*3.142*30)
+
+
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 1. 
-user_input= int(input["Enter your age:" ])
+user_input= (input["Enter your age:" ])
 if user_input >=18:
     print("You are old enough to drive")
 elif user_input <18:
@@ -17,7 +17,10 @@ elif a<b:
 else: a=b
 print("a is equal to b")
 
+
 4. 
+
+    
 5. 
 season = input("Season:" )
 if season is Autumn:
@@ -31,29 +34,7 @@ if season is Summer:
 else:
     print("season can not be checked")
 
-6. 
 
-
-
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-4. 
-Grades = ["80-100"== A, "70-89"== B, "60-69"==C, "50-59"==D, "0-49"==F]
-# Print each Grade:
-for Grade in Grades:
-    print(grades)
 6. 
 fruits = ['banana', 'orange', 'mango', 'lemon']
 fruits.append ( 'watermelon')
@@ -62,4 +43,40 @@ print(fruits)
 ['banana', 'lemon', 'mango', 'orange', 'watermelon']
 
 7. 
+person={
+    'first_name': 'Asabeneh',
+    'last_name': 'Yetayeh',
+    'age': 250,
+    'country': 'Finland',
+    'is_marred': True,
+    'skills': ['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
+    'address': {
+        'street': 'Space street',
+        'zipcode': '02210'
+    }
+    }
+person['profession']= 'tech instructor'
+print(person)
+
+print(person['skills'])
+print(person['skills'.value(2)])
+
+print(person['skills'])
+print(person['skills'.value(4)])
+
+if skills : JavaScript and React :
+    print ('He is a front end developer')
+if skills :  'Node', 'Python', 'MongoDB': 
+    print('He is a backend developer')
+if skills : 'React', 'Node' and 'MongoDB':
+    Print('He is a fullstack developer')
+else:
+    print('unknown title')
+
+
+
+
+
+
+    
 
