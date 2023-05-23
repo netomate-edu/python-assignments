@@ -1,3 +1,4 @@
+# exercise: level 1
 list= []
 Numbers= [1, 2, 3, 4, 5]
 print(len(Numbers))
@@ -70,7 +71,25 @@ print(full_stack)
 
 full_stack=['HTML', 'CSS', 'JS', 'React', 'Redux', 'Node', 'Express', 'MongoDB']
 full_stack.insert(5, 'python')
- 
+print(full_stack)
+full_stack = ['HTML', 'CSS', 'JS', 'React', 'Redux', 'python', 'Node', 'Express', 'MongoDB']
+full_stack.insert(5, 'SQL')
+print(full_stack)
+
+
+
+# level 2:
+ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+ages.sort()
+print(ages)
+
+ages= [19, 19, 20, 22, 24, 24, 24, 25, 25, 26]
+print(min(ages))
+print(max(ages))
+print(range(ages))
+
+
+
 
 
 
