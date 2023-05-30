@@ -6,10 +6,12 @@ _Brothers = ('John', 'Harry', 'Hamiltion')
 
 siblings = _sisters + _Brothers
 print (siblings)
+
 print(len (siblings))
 
 parents_= ('David', 'wummi')
 family_members = (parents_+siblings)
+
 print(family_members)
 
 fruits=('watermelon', 'grape', 'apple')
