@@ -18,9 +18,13 @@ student= {'first_name':'Sam', 'last_name':'Hamiltion', 'gender': 'male',
            'skills': ['teaching', 'baking', 'script writting'],
           'country': 'sweeden', 'city': 'stockholm', 'address': 'cape street' }
 print(len(student))
+
 print(student['skills'])
+
 print(type('skills'))
+
 student['skills']. append('painting')
+
 print(student)
 
 for key in student:
